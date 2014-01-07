@@ -1,6 +1,7 @@
+/_site
+/css/min.css
 *.swp
 *.swo
 .sass-cache
 .local
 *.DS_Store
-
