@@ -13,7 +13,7 @@ echo Building site
 echo ==================
 rm -rf ./_site
 mkdir ./_site
-cp -R js css images less bootstrap fonts index.html ./_site
+cp -R js css images bootstrap fonts index.html ./_site
 
 echo =========================
 echo GZIP All Html, css and js
